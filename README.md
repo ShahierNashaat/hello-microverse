@@ -12,6 +12,17 @@
 - CSS
 
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+- Click the green Code button on the repo.
+- Copy the project url
+- In your local PC, open your terminal in the folder you would like to clone the project.
+- type "git clone (project-url)"
+
+
+
 ## Authors
 
 👤 **Shahier Nashaat**
